@@ -2,6 +2,8 @@
 
 It is a dynamic web login page It is built with HTML, JS, CSS during my training.
 
+![login page](assets\front.png)
+
 ## Installation
 
 1. Install vscode
